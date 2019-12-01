@@ -1,0 +1,5 @@
+C:\Users\msı\Desktop\C#\OnurBerkerALHAS_2015280003\OnurBerkerALHAS_2015280003\bin\Debug\OnurBerkerALHAS_2015280003.exe.config
+C:\Users\msı\Desktop\C#\OnurBerkerALHAS_2015280003\OnurBerkerALHAS_2015280003\bin\Debug\OnurBerkerALHAS_2015280003.exe
+C:\Users\msı\Desktop\C#\OnurBerkerALHAS_2015280003\OnurBerkerALHAS_2015280003\bin\Debug\OnurBerkerALHAS_2015280003.pdb
+C:\Users\msı\Desktop\C#\OnurBerkerALHAS_2015280003\OnurBerkerALHAS_2015280003\obj\Debug\OnurBerkerALHAS_2015280003.exe
+C:\Users\msı\Desktop\C#\OnurBerkerALHAS_2015280003\OnurBerkerALHAS_2015280003\obj\Debug\OnurBerkerALHAS_2015280003.pdb
